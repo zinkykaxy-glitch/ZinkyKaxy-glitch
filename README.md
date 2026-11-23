@@ -12,8 +12,8 @@
 
 <!-- Profile Views & Social Badges -->
 [![](https://komarev.com/ghpvc/?username=Zinkykaxy-glitch&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/zinkykaxy-glitch)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/xtia.n55)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/squaretrailer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ice_pac.ke)
+[![BuyMesoda](https://img.shields.io/badge/Buy%20Me%20a%20soda-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymesoda.com/tDSCBYYptWM1eHnHuOVVLwK2kiE3)
 
 </div>
 
@@ -76,7 +76,7 @@ A modern web application portfolio. Built with html css and javascript, emphasiz
 
 A backend service / automation tool that [describe what it does]. Architected for maintainability with full test coverage via Jest/Vitest.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/squaretrailer)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zinkykaxy-glitch)
 
 ---
 
@@ -85,7 +85,7 @@ A backend service / automation tool that [describe what it does]. Architected fo
 
 A UI/UX-focused project that [describe what it does]. Designs prototyped in Figma, then implemented pixel-perfectly in React.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/squaretrailer)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zinkykaxy-glitch)
 
 ---
 
@@ -158,7 +158,7 @@ A UI/UX-focused project that [describe what it does]. Designs prototyped in Figm
 
 I'm always open to chatting about code, ideas, or potential projects. Don't be a stranger!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/xtia.n55)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ice_pac.ke)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinkykaxy-glitch/)
 
 </div>
@@ -171,7 +171,7 @@ I'm always open to chatting about code, ideas, or potential projects. Don't be a
 
 If something I've built or shared helped you out, a coffee would mean the world! 🙏
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/squaretrailer)
+[![BuyMeAsoda](https://img.shields.io/badge/Buy%20Me%20a%20soda-ffdd00?style=for-the-badge&logo=buy-me-a-soda&logoColor=black)](https://buymeasoda.com/squaretrailer)
 
 </div>
 
