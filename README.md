@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-[![](https://komarev.com/ghpvc/?username=squaretrailer&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/squaretrailer)
+[![](https://komarev.com/ghpvc/?username=Zinkykaxy-glitch&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/zinkykaxy-glitch)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/xtia.n55)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/squaretrailer)
 
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Christian** — a passionate **Full-Stack Developer** who loves crafting clean, performant, and visually compelling web experiences. I thrive at the intersection of great design and solid engineering.
+Hey there! I'm **Onesmus** — a passionate **Full-Stack Developer** who loves crafting clean, performant, and visually compelling web experiences. I thrive at the intersection of great design and solid engineering.
 
 - 🔭 Currently building projects with **React**, **Node.js**, and **Python**
 - 🌱 Deepening my skills in **system design**, **testing (Vitest/Jest)**, and **scalable architecture**
@@ -64,10 +64,10 @@ Hey there! I'm **Christian** — a passionate **Full-Stack Developer** who loves
 ### 🌟 Project Alpha *(replace with your actual project)*
 **`JavaScript` `React` `TailwindCSS`**
 
-A modern web application focused on [describe what it does in one sentence]. Built with React and Tailwind, emphasizing clean component architecture and responsive design.
+A modern web application portfolio. Built with html css and javascript, emphasizing clean component architecture and responsive design.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/squaretrailer)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-58a6ff?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zinkykaxy-glitch/portfolio)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-one-zeta-ld6l3yusym.vercel.app/)
 
 ---
 
@@ -110,13 +110,13 @@ A UI/UX-focused project that [describe what it does]. Designs prototyped in Figm
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=squaretrailer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=zinkykaxy-glitch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=squaretrailer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=zinkykaxy-glitch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=squaretrailer&theme=dark&hide_border=false&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=zinkykaxy-glitch&theme=dark&hide_border=false&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" />
 
 </div>
 
@@ -126,7 +126,7 @@ A UI/UX-focused project that [describe what it does]. Designs prototyped in Figm
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=squaretrailer&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=zinkykaxy-glitch&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -136,7 +136,7 @@ A UI/UX-focused project that [describe what it does]. Designs prototyped in Figm
 
 <div align="center">
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=squaretrailer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=zinkykaxy-glitch&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
