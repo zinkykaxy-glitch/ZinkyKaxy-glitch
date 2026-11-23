@@ -159,7 +159,7 @@ A UI/UX-focused project that [describe what it does]. Designs prototyped in Figm
 I'm always open to chatting about code, ideas, or potential projects. Don't be a stranger!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/xtia.n55)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/squaretrailer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinkykaxy-glitch/)
 
 </div>
 
