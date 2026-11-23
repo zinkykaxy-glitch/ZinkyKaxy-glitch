@@ -61,7 +61,7 @@ Hey there! I'm **Onesmus** — a passionate **Full-Stack Developer** who loves c
 
 > *A selection of things I've built — each one a lesson learned.*
 
-### 🌟 Project Alpha *(replace with your actual project)*
+### 🌟 Portfolio Website*
 **`JavaScript` `React` `TailwindCSS`**
 
 A modern web application portfolio. Built with html css and javascript, emphasizing clean component architecture and responsive design.
